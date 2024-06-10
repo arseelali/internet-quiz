@@ -1,0 +1,6 @@
+Black: #000
+Purple: #7000a5
+White: #fff
+Off White BG Color: #f0f0f0
+Correct Color: #86F099
+Incorrect Color: #ED4337
